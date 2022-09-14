@@ -34,6 +34,7 @@ h3 {
 	color: #171717;
 	size: 28px;
 	margin-left: 362px;
+	margin-top: 33px;
 
 	/*navright aris mtliani navis class*/
 }
@@ -59,4 +60,17 @@ h3 {
 	width: 219px;
 	height: 219px;
 	margin-left: 25px;
+}
+p {
+	color: #171717;
+	font-size: 16px;
+	margin-left: 484.5px;
+	margin-right: 484.5px;
+	margin-bottom: 18px;
+	margin-top: 18px;
+}
+
+.a1 {
+	margin: 0 auto;
+	color: black;
 }
