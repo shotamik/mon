@@ -18,16 +18,21 @@ a {
 }
 .navbar {
 	color: black;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	padding-left: 36px;
+	padding-right: 36px;
 	background-color: #FFFFFF;
 	width: 160px;
 	height: 55px;
+
 	border-radius: 25px;
 }
 
 img {
 	width: 115px;
 	height: 65px;
-	margin-top: 40px;
+	margin-top: 37px;
 	margin-left: 240px;
 }
 h3 {
@@ -39,7 +44,7 @@ h3 {
 	/*navright aris mtliani navis class*/
 }
 .navright {
-	margin-top: 0 auto;
+	/*margin-top: 0 auto;*/
 	margin-left: 843px;
 }
 
@@ -72,8 +77,21 @@ p {
 
 .a1 {
 	color: #FFFFFF;
-	margin-left: 847px;
-	padding-top: 36px;
+	font-size: 16px;
+	margin-left: 750px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	padding-right: 60px;
 	padding-left: 60px;
 	background-color: #0a22f4;
+	border-radius: 28px;
+	margin-top: 760px;
+}
+
+.nav1 {
+	margin-right: 43px;
+}
+
+.mag {
+	margin-bottom: 76px;
 }
