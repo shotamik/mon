@@ -29,12 +29,15 @@ a {
 	border-radius: 25px;
 }
 
+
+
 img {
 	width: 115px;
 	height: 65px;
 	margin-top: 37px;
 	margin-left: 240px;
 }
+
 h3 {
 	color: #171717;
 	size: 28px;
@@ -42,10 +45,13 @@ h3 {
 	margin-top: 33px;
 
 	
-.navright {
-	/*margin-top: 0 auto;*/
+
+/*.navright {*/*/
 	margin-left: 843px;
 }
+
+
+
 
 .img1 {
 	width: 1195px;
@@ -93,4 +99,8 @@ p {
 
 .mag {
 	margin-bottom: 76px;
+}
+
+.navbar5 {
+	margin-left: 843px;
 }
